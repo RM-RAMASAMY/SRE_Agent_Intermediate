@@ -106,6 +106,13 @@ On Windows, run these shell scripts from Git Bash or WSL.
 - Agent/API docs: http://localhost:8080/docs
 - Target client gateway: http://localhost:8000
 
+## Project Screenshots
+
+1. ![Project Screenshot 1](https://github.com/user-attachments/assets/7066bb0c-c105-40ef-8a1f-94802ae23e04)
+2. ![Project Screenshot 2](https://github.com/user-attachments/assets/abaa35b3-18c4-4564-b263-e5c4c5ce1613)
+3. ![Project Screenshot 3](https://github.com/user-attachments/assets/a1240c45-9576-4f89-bbd9-1a478b659868)
+4. ![Project Screenshot 4](https://github.com/user-attachments/assets/30c8551f-836b-44f3-b40b-7210bc34e7b7)
+
 ## Development Workflows
 
 ### Platform-only smoke test
